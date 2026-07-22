@@ -132,8 +132,11 @@ KhulasaAI/
 > Never commit your .env file or bot token to version control.
 > 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b2545,50:134074,100:00a86b&height=3"/>
+
 ## 👨‍💻 Developer
+
 <div align="center">
+
 **Rami Bitar**
 <a href="https://github.com/RamiDevX">
 <img src="https://img.shields.io/badge/GitHub-RamiDevX-0b2545?style=for-the-badge&logo=github&logoColor=white" />
