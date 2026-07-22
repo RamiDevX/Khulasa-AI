@@ -1,0 +1,30 @@
+# Environment variables (contains your bot token — never commit this)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Local data generated at runtime
+meetings.db
+*.db
+*.log
+
+# Downloaded/temporary audio files
+*.mp3
+*.wav
+*.ogg
+*.m4a
+*.oga
+
+# faster-whisper model cache (re-downloaded automatically, no need to version it)
+.cache/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
