@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="https://t.me/KhulasaAI_bot">
+  <a href="https://t.me/Khulasa_bot">
     <img src="https://img.shields.io/badge/Telegram-@KhulasaAI__bot-0b2545?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://python.org">
