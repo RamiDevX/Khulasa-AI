@@ -138,6 +138,9 @@ KhulasaAI/
 <div align="center">
 
 **Rami Bitar**
+
+<div align="center">
+
 <a href="https://github.com/RamiDevX">
 <img src="https://img.shields.io/badge/GitHub-RamiDevX-0b2545?style=for-the-badge&logo=github&logoColor=white" />
 </a>
